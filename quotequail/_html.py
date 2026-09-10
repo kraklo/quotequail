@@ -34,6 +34,8 @@ INLINE_TAGS = [
     "th",
 ]
 
+# Unicode object replacement character. Arbitrary choice of character to
+# represent an image line.
 IMAGE_LINE_TEXT = "\ufffc"
 
 
